@@ -1,0 +1,12 @@
+# Secrets: config.json contains the personal API key
+config.json
+
+# Application logs
+Logs/
+*.log
+
+# Build output and IDE files
+out/
+build/
+.vs/
+CMakePresets.json

@@ -1,0 +1,6 @@
+{
+  "base_url": "URL",
+  "api_key": "PERSONAL_KEY",
+  "log_file": "eventclient.log",
+  "image_dir": "Resources"
+}
